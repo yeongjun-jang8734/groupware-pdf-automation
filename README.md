@@ -1,4 +1,4 @@
-# sanai_three
+# groupware-pdf-automation
 bizbox alpha 그룹웨어 문서 자동 다운로드 매크로
 그룹웨어 문서 PDF 자동 다운로드 매크로
 사내 그룹웨어(전자결재 시스템)에서 특정 양식(출장신청서, 출장보고서 등)의 문서를
